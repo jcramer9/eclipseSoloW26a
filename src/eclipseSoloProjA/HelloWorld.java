@@ -8,7 +8,7 @@ public class HelloWorld {
 		
 		System.out.println("This will be the second commit!");
 		
-		System.out.println("Programmer 2 did this!!! and is back for more.");
+		System.out.println("Programmer 2 did this!!! and is back for more... then programmer 1 did this!");
 	}
 
 }
